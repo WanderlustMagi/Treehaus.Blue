@@ -1,2 +1,3 @@
 # Treehaus.Blue
-Website Project with Flask
+## Machine Learning Projects with Images
+This repo is for my machine learning projects with images.
